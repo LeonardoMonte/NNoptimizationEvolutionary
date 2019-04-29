@@ -2,7 +2,6 @@ import numpy as np
 import random
 from Auxiliar import Functions as fc
 import pandas as pd
-import cv2
 
 def creatpopu(sizepopu, sizecromo):
 
